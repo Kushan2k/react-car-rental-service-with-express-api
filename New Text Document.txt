@@ -1,0 +1,13 @@
+backend folder inside
+
+1. open the .env file inside the backend folder
+2. find the value look like this DATABASE_URL="mysql://root:@localhost:3306/car_rental"
+3. change this to DATABASE_URL="mysql://<USERNAME>:<PASSWORDIF ANY>@localhost:3306/<DBNAME>"
+4. run "npm i " in the terminal
+5. run "npx prisma generate"
+6. run "npx prisma db push"
+7. finally run "npm run dev" to start the server
+
+frontend folder inside
+1.run "npm i"
+2. start the server with "npm start"
