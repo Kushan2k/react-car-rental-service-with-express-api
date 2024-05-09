@@ -50,3 +50,33 @@ npm run dev
 ```bash
 npm i && npm start
 ```
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Screenshot 1](screenshots/hero.png)
+_Hero Section_
+
+![Screenshot 2](screenshots/userlogin.png)
+_User Login_
+
+![Screenshot 3](screenshots/userreg.png)
+_User Regsiter_
+
+![Screenshot 4](screenshots/adminlogin.png)
+_Admin login_
+
+![Screenshot 5](screenshots/addservice.png)
+_add service_
+
+![Screenshot 6](screenshots/admindb.png)
+_admin dashboard_
+
+![Screenshot 7](screenshots/finished.png)
+_finished services_
+
+![Screenshot 8](screenshots/fiservice.png)
+_finished services_
+
+<hr/>
